@@ -1,5 +1,6 @@
-i used git commmands for update it was a : 
-git add .  
-git commit -m   
-git push    
-git checkout / for make and switch bracnhes   
+git add . 
+git commit -m  
+git push  
+for change branch 
+git branch -a  
+git checkout <brachname>  
